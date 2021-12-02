@@ -20,6 +20,12 @@ Aqui estão algumas idéias para você começar:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="60" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  width="60" height="60"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" height="60" />
 
 
+<img  width="360" height="360" src="https://raw.githubusercontent.com/Brunomestres/React-portfolio/main/src/img/me.png" target="_blank" />
+
+
+
+
+
 ### Contatos:
 
 <div>
