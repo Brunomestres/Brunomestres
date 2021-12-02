@@ -5,7 +5,7 @@
 Aqui estão algumas idéias para você começar:
 
 - 🔭 Atualmente estou estudando Sistemas De Informação na Universidade Salvador(Termina em Dez/2024).
-- 🌱 Atualmente estou aprendendo ReactJS, Typescrippt, AWS, Serverless, NextJS.
+- 🌱 Atualmente estou aprendendo ReactJS, Typescript, AWS, Serverless, NextJS.
 - 👯 Estou procurando colaborar em projetos que busquem contribuir com causas sociais.
 - 🤔 Estou procurando oportunidades de crescer como desenvolvedor fullstack.
 - 💬 Pergunte-me sobre NodeJS
