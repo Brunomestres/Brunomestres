@@ -39,3 +39,5 @@ Desenvolvedor backend focado em construir APIs performáticas, escaláveis e bem
 
 * LinkedIn: https://www.linkedin.com/in/brunomestres
 * Email: [brunomestres@gmail.com](mailto:brunomestres@gmail.com)
+
+  ![Snake animation](https://github.com/Brunomestres/Brunomestres/blob/output/github-contribution-grid-snake.svg)
